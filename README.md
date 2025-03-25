@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [harika-davu-portfolio.netlify.app](harika-davu-portfolio.netlify.app)
 
-- 💬 Ask me about **data analysis,Python,PowerBI,SQL,SAP,SAAS,SERVICENOWHTML5,CSS,Javascript**
+- 💬 Ask me about **data analysis,Python,PowerBI,SQL,SAP,SAAS,SERVICE-NOW,HTML5,CSS,Javascript,ITAM,Asset Managemnt**
 
 - 📫 How to reach me **docinbox66@gmail.com**
 
